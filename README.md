@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header&text=Grazielly%20Sousa&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4A7C59&height=120&section=header&text=Grazielly%20Sousa&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
@@ -16,7 +16,7 @@
 
 Sobre mim
 
-Desenvolvedora full stack apaixonada por criar soluções completas — do layout ao banco de dados. Combino formação técnica em Design Gráfico com desenvolvimento de software, o que me dá um olhar diferenciado para construir interfaces bonitas e funcionais.
+Desenvolvedora full stack apaixonada por criar soluções completas do layout ao banco de dados. Combino formação técnica em Design Gráfico com desenvolvimento de software, o que me dá um olhar diferenciado para construir interfaces bonitas e funcionais.
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
 - Técnica em Design Gráfico
