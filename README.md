@@ -12,7 +12,7 @@
 
 ### Sobre mim
 
-Desenvolvedora com experiência em frontend, backend e mobile — do layout ao banco de dados. Gosto de construir soluções completas, com código limpo e interfaces que fazem sentido para quem usa.
+Desenvolvedora em formação de frontend, backend e mobile. Do layout ao banco de dados. Gosto de construir soluções completas, com código limpo e interfaces que fazem sentido para quem usa.
 
 ---
 
