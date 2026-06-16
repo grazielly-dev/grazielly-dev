@@ -14,35 +14,34 @@
 
 ---
 
-### 👩🏾‍💻 Sobre mim
+Sobre mim
 
 Desenvolvedora full stack apaixonada por criar soluções completas — do layout ao banco de dados. Combino formação técnica em Design Gráfico com desenvolvimento de software, o que me dá um olhar diferenciado para construir interfaces bonitas e funcionais.
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
-- 🎨 Técnica em **Design Gráfico**
-- 🌱 Sempre aprendendo algo novo
-- ☁️ Explorando o universo **AWS**
+- Técnica em Design Gráfico
+- Sempre aprendendo algo novo
+- ☁️ Explorando o universo AWS
 
----
 
-### 🛠️ Tecnologias
+Tecnologias Utilizadas
 
 <div align="center">
 
-**Frontend**
+Frontend
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Backend & Mobile**
+Backend & Mobile
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-**Banco de Dados & Cloud**
+Banco de Dados & Cloud
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
@@ -67,5 +66,5 @@ Desenvolvedora full stack apaixonada por criar soluções completas — do layou
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=80&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4A7C59&height=80&section=footer" width="100%" />
 </div>
